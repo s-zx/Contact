@@ -1,0 +1,4 @@
+com/example/contact/repository/Consultation.class
+com/example/contact/repository/ConsultationRepository.class
+com/example/contact/ContactApplication.class
+com/example/contact/controller/ConsultationController.class
